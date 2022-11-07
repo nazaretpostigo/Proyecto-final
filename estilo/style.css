@@ -1,0 +1,36 @@
+.contenedor{
+    background-color:#A5ADFA;
+    padding: 50px;
+    text-align: center;
+    border: 5px solid #2331FA;
+}
+
+h1{
+    color:black;
+    text-align: center;
+    font-size: 100px;
+}
+
+h2{
+    font-size: larger;
+    font-size: 33px;
+}
+
+h3{
+    font-size: large;
+    font-size: 30px;
+}
+
+ul{
+    font-size: 28px;
+}
+
+body{
+    background-color:#F3EFBD;
+}
+
+p{
+    font-size:large;
+    font-size: 22px;
+}
+
